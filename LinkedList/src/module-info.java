@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author lucifer
+ *
+ */
+module LinkedList {
+}
